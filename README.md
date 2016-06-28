@@ -1,0 +1,4 @@
+# iBeaconKit
+iBeaconKit
+
+pod 'iBeaconKit'
